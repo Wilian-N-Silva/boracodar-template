@@ -1,9 +1,14 @@
 {
   "recommendations": [
-    "PKief.material-icon-theme",
+    "DavidAnson.vscode-markdownlint",
     "esbenp.prettier-vscode",
-    "ritwickdey.LiveServer",
-    "vivaxy.vscode-conventional-commits",
     "GitHub.github-vscode-theme",
+    "meganrogge.template-string-converter",
+    "donjayamanne.githistory",
+    "vivaxy.vscode-conventional-commits",
+    "PKief.material-icon-theme",
+    "ritwickdey.LiveServer",
+    "oderwat.indent-rainbow",
+    "eamodio.gitlens"
   ]
 }
